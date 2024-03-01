@@ -79,7 +79,7 @@
       <li>
         http://localhost:8080 으로 접속하여 실행 확인
         <br></br>
-        <img src="https://github.com/OllyDI/spring-study/assets/71002104/29693ba8-e8ff-46db-965d-95843c9eec9b">
+        <img src="https://github.com/OllyDI/spring-study/assets/71002104/1b40b2c7-49b2-4ff7-a38c-bd202040148e">
       </li>
     </ol>
   </div>
