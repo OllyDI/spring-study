@@ -54,7 +54,7 @@
   </div>
   <br>
   
-  <h3>스프링 환경구축 순서 (vscode 기준)</h3>
+  <h3>스프링 환경구축 순서 (vscode, Spring Ver 3.2.3)</h3>
   <div>
     <ol>
       <li>
