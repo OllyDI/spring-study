@@ -1,4 +1,4 @@
-package com.spring_study.project;
+package com.project.spring_study;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
@@ -7,7 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(ProjectApplication.class);
+		return application.sources(SpringStudyApplication.class);
 	}
 
 }
