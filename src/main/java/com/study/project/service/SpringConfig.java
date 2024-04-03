@@ -1,5 +1,6 @@
 package com.study.project.service;
 
+import com.study.project.aop.TimeTraceAop;
 import com.study.project.repository.*;
 import jakarta.persistence.EntityManager;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,6 +37,7 @@ public class SpringConfig {
     public MemberService memberService() {
         return new MemberService(memberRepository);
     }
+
 
 //    @Bean
 //    public MemberRepository memberRepository() {
