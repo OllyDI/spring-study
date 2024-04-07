@@ -20,7 +20,6 @@ public class MemberService {
 
     /*
     회원 가입 구현
-
     중복되는 회원은 가입X
      */
     public Long join(Member member) {
